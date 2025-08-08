@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Product>
+
+<div class="d-flex justify-content-center">
+    <h1 class="text-success">Products Portal</h1>
+</div>
+
+<br />
+<hr />
+<br />
+
+<table class="table text-center">
+    <thead>
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(e => e.ProdId)</th>
+            <th scope="col">@Html.DisplayNameFor(e => e.Title)</th>
+            <th scope="col">@Html.DisplayNameFor(e => e.Price)</th>
+            <th scope="col">@Html.DisplayNameFor(e => e.Description)</th>
+            <th scope="col">@Html.DisplayNameFor(e => e.Quantity)</th>
+            <th scope="col">@Html.DisplayNameFor(e => e.ImagePath)</th>
+            <th scope="col">@Html.DisplayNameFor(e => e.Category)</th>
+            <th scope="col" colspan="3">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="col">@item.ProdId</td>
+                <td scope="col">@item.Title</td>
+                <td scope="col">@item.Price</td>
+                <td scope="col">@item.Description</td>
+                <td scope="col">@item.Quantity</td>
+                <td scope="col">@item.ImagePath</td>
+                <td scope="col">@item.Category.CatName</td>
+                <td scope="col">
+                    <a asp-controller="Product" asp-action="Details" asp-route-Id="@item.ProdId" class="btn btn-primary">View</a>
+                </td>
+                <td scope="col">
+                    <a asp-controller="Product" asp-action="Edit" asp-route-Id="@item.ProdId" class="btn btn-secondary">Edit</a>
+                </td>
+                <td scope="col">
+                    <form asp-controller="Product" asp-action="Delete" asp-route-Id="@item.ProdId" method="post" onsubmit="return confirm('Are you sure uou want to delete this item?')">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <a asp-controller="Product" asp-action="Create" class="btn btn-success">Add Product</a>
+    </tfoot>
+</table>

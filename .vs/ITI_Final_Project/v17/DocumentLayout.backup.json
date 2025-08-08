@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|d:\\courses\\iti\\.net backend development\\c# fundamentals\\iti_final_project\\iti_final_project\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|solutionrelative:iti_final_project\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|d:\\courses\\iti\\.net backend development\\c# fundamentals\\iti_final_project\\iti_final_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|solutionrelative:iti_final_project\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|d:\\courses\\iti\\.net backend development\\c# fundamentals\\iti_final_project\\iti_final_project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|solutionrelative:iti_final_project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|d:\\courses\\iti\\.net backend development\\c# fundamentals\\iti_final_project\\iti_final_project\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|solutionrelative:iti_final_project\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|d:\\courses\\iti\\.net backend development\\c# fundamentals\\iti_final_project\\iti_final_project\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7927253F-5D03-45BA-B430-C5794C709232}|ITI_Final_Project\\ITI_Final_Project.csproj|solutionrelative:iti_final_project\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "ITI_Final_Project\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\User\\Login.cshtml*",
+              "RelativeToolTip": "ITI_Final_Project\\Views\\User\\Login.cshtml*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T18:00:56.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ITI_Final_Project\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ITI_Final_Project\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T14:35:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ITI_Final_Project\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ITI_Final_Project\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:03:15.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "ITI_Final_Project\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "ITI_Final_Project\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T14:01:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ITI_Final_Project\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Courses\\ITI\\.Net Backend Development\\C# Fundamentals\\ITI_Final_Project\\ITI_Final_Project\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ITI_Final_Project\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T14:01:02.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
